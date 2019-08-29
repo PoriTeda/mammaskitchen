@@ -6,7 +6,7 @@
                 document.write(new Date().getFullYear())
             </script>
             <strong> Developed &amp; <i class="far fa-heart"></i> by </strong>
-                        <a href="https://www.youtube.com/channel/UCwbVAlvrsD2Tpx93bleNbOA" target="_blank">Programming kit</a>
+                        <a href="#">Trinh Chi Quyen</a>
         </p>
     </div>
 </footer>
